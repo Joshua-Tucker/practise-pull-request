@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@500&family=Merriweather:ital@1&family=Roboto+Mono:ital,wght@1,700&display=swap'); 
+$font-body:"Karla", sans-serif;
+$font-secondary: "Merriweather", serif;
+$font-text: "Roboto Mono", monospace;
+
+
+
+#main{
+    font-family: $font-body;
+    font-size: 50px;
+}
+#second{
+    font-family: $font-secondary;
+    font-size: 40px;
+}
+.text{
+    font-family: $font-text;
+    font-size: 30px;
+    color: red
+}
+
